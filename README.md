@@ -26,7 +26,7 @@ fvm use stable
 3. Fetch dependencies:
 
 ```bash
-flutter pub run build_runner build
+flutter pub get
 ```
 
 4. Generate necessary files using build_runner:
